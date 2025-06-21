@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=yellow)
+
+
 ## Description
 Ce programme permet de partager facilement des dossiers via un serveur HTTP ou FTP local grâce à une interface graphique simple.
 
