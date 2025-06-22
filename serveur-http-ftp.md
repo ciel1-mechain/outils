@@ -14,7 +14,7 @@ Ce programme permet de partager facilement des dossiers via un serveur HTTP ou F
 - #### Partage de dossiers par FTP
     - Glissez-déposez un dossier dans le champ “Répertoire FTP”
     - Cliquez sur “Lancer FTP”.
-    - Accés à ce dossier avec un client FTP (par ex. un **explorateur de fichiers**) à l’URL indiquée.
+    - Accés à ce dossier depuis un client FTP (par ex. un **explorateur de fichiers**) à l’URL indiquée.
 
 ---
 
